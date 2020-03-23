@@ -49,9 +49,6 @@ El diagrama de clases permite realizar el modelamiento del esquema lógico de la
 
 ![Clases](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/diagrama-clases.jpg)
 
-#### Diagrama de objetos
-
-Este diagrama es útil para centrarse en los los atributos y la relación de los objetos entre sí. Funciona a su vez como prueba del diagrama de clases desarrollado al presentar con más detalle la estructura de los objetos del sistema. 
 
 #### Diagramas de actividades
 
