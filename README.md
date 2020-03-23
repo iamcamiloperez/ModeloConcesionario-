@@ -1,4 +1,4 @@
-##DISEÑO PLATAFORMA WEB DE CONCESIONARIO DE VEHÍCULOS
+#DISEÑO PLATAFORMA WEB DE CONCESIONARIO DE VEHÍCULOS
 
 ######Diseño de un sistema de información para un concesionario 
 
