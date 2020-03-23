@@ -41,12 +41,13 @@ Para el diseño del sistema se plantean los siguientes modelos basados en Lengua
 
 Muestra la funcionalidad global del sistema en tratamiento. Con este se pretende mostrar una vista general de las actividades funcionales que debe contener el diseño del sistema. 
 
-![Image of Yaktocat](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/Actividades.png)
+![Casos de uso](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/CasosDeUso.png)
 
 #### Diagrama de clases persistentes 
 
 El diagrama de clases permite realizar el modelamiento del esquema lógico de la base de datos. Es útil para visualizar la abstracción de los objetos. Este es seleccionado a fin de poder tener una estructura clara del modelo de datos. 
 
+![Clases](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/diagrama-clases.jpg)
 
 #### Diagrama de objetos
 
@@ -55,3 +56,5 @@ Este diagrama es útil para centrarse en los los atributos y la relación de los
 #### Diagramas de actividades
 
 Los diagramas de actividades en UML nos brindan una vista comportamental del sistema presentando el flujo de trabajo de las actividades. Este sistema al tener una importante responsabilidad en el desarrollo de actividades como configuración de vehículos y simulación requiere una atención especial al desarrollo de actividades para garantizar su correcta aplicación y funcionamiento. 
+
+![Actividades](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/Actividades.png)
