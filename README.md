@@ -41,6 +41,8 @@ Para el diseño del sistema se plantean los siguientes modelos basados en Lengua
 
 Muestra la funcionalidad global del sistema en tratamiento. Con este se pretende mostrar una vista general de las actividades funcionales que debe contener el diseño del sistema. 
 
+![Image of Yaktocat](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/Actividades.png)
+
 #### Diagrama de clases persistentes 
 
 El diagrama de clases permite realizar el modelamiento del esquema lógico de la base de datos. Es útil para visualizar la abstracción de los objetos. Este es seleccionado a fin de poder tener una estructura clara del modelo de datos. 
