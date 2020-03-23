@@ -1,6 +1,6 @@
-#DISEÑO PLATAFORMA WEB DE CONCESIONARIO DE VEHÍCULOS
+## DISEÑO PLATAFORMA WEB DE CONCESIONARIO DE VEHÍCULOS
 
-######Diseño de un sistema de información para un concesionario 
+###### Diseño de un sistema de información para un concesionario 
 
 Diseñar un sistema de información para el concesionario XXX el cual es distribuidor autorizado de vehículos de alta gama, dicho sistema debe permitir la  administración de vehículos por parte del gerente técnico, asigna y personaliza las partes compatibles según el tipo de vehículo, por parte del usuario, se le permitirá realizar una simulación de rendimiento donde podrá consultar la información asociada con el rendimiento del vehículo, consumo de combustible, aceleración, potencia del motor.
 
@@ -32,23 +32,24 @@ Las acciones identificadas son:
   - Configurar partes del vehículo 
   - Generar simulación
 
-###Modelos UML
+
+### Modelos UML
 
 Para el diseño del sistema se plantean los siguientes modelos basados en Lenguaje de Modelado Unificado. 
 
-####Casos de uso
+#### Casos de uso
 
 Muestra la funcionalidad global del sistema en tratamiento. Con este se pretende mostrar una vista general de las actividades funcionales que debe contener el diseño del sistema. 
 
-####Diagrama de clases persistentes 
+#### Diagrama de clases persistentes 
 
 El diagrama de clases permite realizar el modelamiento del esquema lógico de la base de datos. Es útil para visualizar la abstracción de los objetos. Este es seleccionado a fin de poder tener una estructura clara del modelo de datos. 
 
 
-####Diagrama de objetos
+#### Diagrama de objetos
 
 Este diagrama es útil para centrarse en los los atributos y la relación de los objetos entre sí. Funciona a su vez como prueba del diagrama de clases desarrollado al presentar con más detalle la estructura de los objetos del sistema. 
 
-####Diagramas de actividades
+#### Diagramas de actividades
 
 Los diagramas de actividades en UML nos brindan una vista comportamental del sistema presentando el flujo de trabajo de las actividades. Este sistema al tener una importante responsabilidad en el desarrollo de actividades como configuración de vehículos y simulación requiere una atención especial al desarrollo de actividades para garantizar su correcta aplicación y funcionamiento. 
