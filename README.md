@@ -57,4 +57,5 @@ Este diagrama es útil para centrarse en los los atributos y la relación de los
 
 Los diagramas de actividades en UML nos brindan una vista comportamental del sistema presentando el flujo de trabajo de las actividades. Este sistema al tener una importante responsabilidad en el desarrollo de actividades como configuración de vehículos y simulación requiere una atención especial al desarrollo de actividades para garantizar su correcta aplicación y funcionamiento. 
 
-![Actividades](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/Actividades.png)
+![ActividadesGerente](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/DiagramaActividadesGerente.png)
+![ActividadesUsuario](https://github.com/iamcamiloperez/ModeloConcesionario-/blob/master/images/DiagramaDeActividadesUsuario.png)
